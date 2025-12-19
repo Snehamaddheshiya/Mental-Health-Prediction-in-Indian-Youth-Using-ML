@@ -51,9 +51,5 @@ This repository contains my data science minor project on analyzing mental healt
 - matplotlib, seaborn  
 - scikit-learn (Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, Naive Bayes, KNN)
 
-## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mayank2295/mental-health-analysis-india.git
-   cd mental-health-analysis-india
+
